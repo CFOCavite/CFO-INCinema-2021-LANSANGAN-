@@ -1,2 +1,3 @@
 CFO-INCinema 2021 LANSANGAN
-View Counter
+
+Views Counter per Local
